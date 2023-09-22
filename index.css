@@ -8,14 +8,14 @@ body {
 
 header {
     background-color:#cd6858;
-    color: #282828;
+    color: black;
     
 }
 
 .logo {
     font-size: 20px;
     font-weight: 700;
-    border-bottom: 1.5px solid whitesmoke;
+    border-bottom: 2px solid black;
 }
 
 ul {
@@ -32,7 +32,7 @@ li {
 }
 
 .icon {
-    width: 25px;
+    width: 20px;
 }
 
 .align-right {
